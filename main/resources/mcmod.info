@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fm",
+  "name": "Unnerfed Fire Spread Mod",
+  "description": "Original Fire spread, brought from beta 1.5.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ScienceDrummer"],
+  "credits": "ScienceDrummer",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
